@@ -1,6 +1,6 @@
 # The Account Register
 
-This view lets you manage your transactions for an account. Consult the [Accounts & Transaction](/docs/accounts/) section in
+This view lets you manage your transactions for an account. Consult the [Accounts & Transactions](/docs/accounts/) section in
 the manual for detailed information on how to work with this view.
 
 ![](/img/a-tour-of-actual/tour-account-register-overview.png)
